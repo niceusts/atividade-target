@@ -1,0 +1,14 @@
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\bin\Debug\net8.0\estagioTarget.exe
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\bin\Debug\net8.0\estagioTarget.deps.json
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\bin\Debug\net8.0\estagioTarget.runtimeconfig.json
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\bin\Debug\net8.0\estagioTarget.dll
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\bin\Debug\net8.0\estagioTarget.pdb
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.AssemblyInfoInputs.cache
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.AssemblyInfo.cs
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.csproj.CoreCompileInputs.cache
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.dll
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\refint\estagioTarget.dll
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.pdb
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\estagioTarget.genruntimeconfig.cache
+c:\Users\niceu\Desktop\Estágio - target\estagioTarget\obj\Debug\net8.0\ref\estagioTarget.dll
